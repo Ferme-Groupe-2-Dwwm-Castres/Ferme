@@ -1,0 +1,86 @@
+body{
+ 
+    background-color: rgb(236, 236, 236);
+
+}
+
+.banner{
+    display: flex;
+    height: 5%;
+    width: auto;
+    border: 2px solid black;
+margin-top : 0;
+}
+
+
+#logo{
+ display: block;
+ width: auto;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+.topnav {
+    
+    background-color: rgb(134, 132, 132);
+    overflow: hidden;
+
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #c1b8c2;
+    color: white;
+  }
+
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+
+  #bas{
+      height: 10vh;
+      width: 100%;
+      padding: 20px;
+      border : 1px solid black;
+      background-color: rgb(66, 66, 66); 
+      margin-top: 10%;
+     
+  }
+
+  #titre1{
+background-color: rgb(172, 171, 171);
+padding: 20px;
+margin-top : 0;
+
+  }
+
+  .box1{
+      width: 30%;
+      height: 40%;
+      border : 2px solid black;
+      margin-top : 20%;
+      margin-left : 60%;
+      background-size: auto;
+  }
+
+  .description{
+   width: 30%;
+   margin-top: 10%;
+   margin-left: 20%;
+   border: 2px solid black;
+   
+}
